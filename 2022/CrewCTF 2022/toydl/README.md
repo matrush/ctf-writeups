@@ -65,5 +65,5 @@ Once we get `n = p * q`, we can solve the standard [RSA](https://en.wikipedia.or
 `crew{d15cr373_l06_15_r3duc710n_f0r_f4c70r1n6}`
 
 ## References
-[Pollard's p-1 algorithm](https://en.wikipedia.org/wiki/Pollard%27s_p_%E2%88%92_1_algorithm)
-[RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+- [Pollard's p-1 algorithm](https://en.wikipedia.org/wiki/Pollard%27s_p_%E2%88%92_1_algorithm)
+- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))

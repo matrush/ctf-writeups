@@ -34,6 +34,6 @@ I used [this](https://github.com/pwang00/Cryptographic-Attacks/blob/master/Publi
 `crew{l00ks_l1k3_y0u_h4v3_you_He4rd_0f_c0pp3rsm1th_sh0r+_p4d_4tt4ck_th4t_w45n\'t_d1ff1cult_w4s_it?}`
 
 ## References
-[Coppersmith’s short-pad attack](https://en.wikipedia.org/wiki/Coppersmith%27s_attack)
-[Twenty Years of Attacks on the RSA Cryptosystem](https://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf)
-[Cryptographic Attacks](https://github.com/pwang00/Cryptographic-Attacks)
+- [Coppersmith’s short-pad attack](https://en.wikipedia.org/wiki/Coppersmith%27s_attack)
+- [Twenty Years of Attacks on the RSA Cryptosystem](https://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf)
+- [Cryptographic Attacks](https://github.com/pwang00/Cryptographic-Attacks)

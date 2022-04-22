@@ -49,6 +49,6 @@ By applying [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_re
 `crew{7hi5_1s_4_5ma11er_numb3r_7han_7h3_Gr4ham_numb3r}`
 
 ## References
-[Euler's totient function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
-[Euler’s theorem](https://en.wikipedia.org/wiki/Euler%27s_theorem)
-[Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem)
+- [Euler's totient function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
+- [Euler’s theorem](https://en.wikipedia.org/wiki/Euler%27s_theorem)
+- [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem)
