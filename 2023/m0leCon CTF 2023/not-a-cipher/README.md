@@ -140,4 +140,4 @@ Once we recovered all the bits, we get the initial `lfsr = 0x55d47c9baedf`, and 
 The attached `solve.py` recovers the `+-0` stream and then recovers binary stream `bs`, then recovers the full 48 bits of the `lfsr` using the rollback mechanism and outputs the `k`. The `solve.cpp` reconstructed the Cipher and EncodingMachine using C++, and used the given `k` and `nonce` to generate the 41 bits and recover the flag.
 
 ## Flag
-`ptm{y0u_found_another_w4y_t0_factorize}`
+`ptm{n0w_u_kn0w_how_ur_c4r_will_b3_st0l3n}`
